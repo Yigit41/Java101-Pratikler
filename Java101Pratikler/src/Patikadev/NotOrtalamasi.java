@@ -1,4 +1,4 @@
-package Patikadev;
+package patikadev;
 
 import java.util.Scanner;
 
